@@ -1,0 +1,1 @@
+This is a VOIP based Android application. It uses the SIP protocol. To use this application install it on your phone and enter your own SIP address (You can obtain a SIP address from free SIP providers).
